@@ -12,7 +12,7 @@
 /lib/config.dart
 
 # IntelliJ related
-*.iml   
+*.iml
 *.ipr
 *.iws
 .idea/
